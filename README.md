@@ -8,3 +8,6 @@ Add a new depository: CSS225_GitHub, and add Lab 3 file to it.
 
 Week 4, October 14-21:
 Add all files of Lab 4 to the depository.
+
+Week 5, October 22-29:
+Add Lab 4 to the depository.
