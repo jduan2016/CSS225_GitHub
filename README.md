@@ -11,3 +11,6 @@ Add all files of Lab 4 to the depository.
 
 Week 5, October 22-29:
 Add Lab 5 to the depository.
+
+Week 6, October 30 - November 6:
+Add Lab 6 to the depository.
