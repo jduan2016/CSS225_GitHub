@@ -14,3 +14,6 @@ Add Lab 5 to the depository.
 
 Week 6, October 30 - November 6:
 Add Lab 6 to the depository.
+
+Week 7, November 10:
+Add Lab 7 to the depository. 
